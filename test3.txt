@@ -1,1 +1,3 @@
 hi hello
+
+now i check this txt will occur in github or nst and add the text into githubg
